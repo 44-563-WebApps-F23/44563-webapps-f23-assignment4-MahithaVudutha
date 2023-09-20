@@ -26,3 +26,41 @@
 
 .speech_NORA{color: red;}
 .speech_MRS_LINDE{color: orange;}
+/*Table*/
+.table,th,td {
+    border: 1px solid #ddd;
+    color:darkolivegreen;
+    border-color:palevioletred;
+    margin:0px;
+    padding:0px;
+    /*margin-bottom: 20px;*/
+    text-align: left;
+  }
+  .tr:nth-child(even) {
+    background-color: rgb(219, 21, 21); /*stripes for odd rows */
+  }
+  .NORA:hover{
+    text-shadow:8px 7px 6px rgb(61, 43, 226);
+    border:solid 3px rgb(61, 43, 226)
+  }
+  .MRS_LINDE:hover{
+     text-shadow:7px 6px 5px rgb(61, 43, 226);
+    border:solid 4px rgb(226, 43, 107)
+  }
+  .navbar{
+    text-align: center;
+    background-color:rgb(96, 121, 126);
+    padding: 15px;
+    width:40%;
+  }
+  .navbar a{
+    color:rgb(58, 226, 43);
+    text-decoration: underline;
+    display: block;
+    padding: 10px;
+  }
+
+.navbar a:hover{
+  background-color: rgb(215, 218, 186);
+  color:rgb(63, 155, 180);
+}
