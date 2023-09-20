@@ -3,3 +3,23 @@
     font-size: 90%;
     font-family: Courier;
 }
+
+.MRS_LINDE{
+    color: green;
+    font-size: 90%;
+    font-family: Courier;
+}
+
+.speech{
+    color: black;
+    font-size: 80%;
+    font-family: Courier;
+}
+
+.direction{
+    background-color: blanchedalmond;
+}
+
+.direction:hover{
+    background-color: lavender;
+}
