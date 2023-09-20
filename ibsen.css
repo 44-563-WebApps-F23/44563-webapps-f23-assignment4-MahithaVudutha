@@ -28,11 +28,11 @@
 .speech_MRS_LINDE{color: orange;}
 /*Table*/
 .table,th,td {
-    border: 1px solid #ddd;
-    color:darkolivegreen;
-    border-color:palevioletred;
-    margin:0px;
-    padding:0px;
+    border: 1px solid #22b936;
+    color:rgb(47, 65, 107);
+    border-color:rgb(185, 216, 112);
+    margin:3px;
+    padding:4px;
     /*margin-bottom: 20px;*/
     text-align: left;
   }
